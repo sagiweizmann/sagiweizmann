@@ -7,7 +7,7 @@
 
 
 ### A little bit about me:
-I am a freelancer and a front-end web developer.<br />
+I am a freelancer and a front-end web developer.
 <br />My UI/UX design capacities come with HTML5, CSS3, JavaScript, React.js and more.
 <br />In addition to web development, I photograph and edit photos using programs such as Adobe Lightroom and Photoshop.
 
