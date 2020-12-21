@@ -1,13 +1,16 @@
 <h1 align="center">Hi there, I'm Sagi Weizmann 👋</h1>
 <h2 align="center">I'm a Fullstack Developer</h2>
 
-- 🌱 I’m currently learning React
+
+- 📕 I’m currently learning React
+- 👓 Developing and learning 
 
 
 ### A little bit about me:
 I am a freelancer and a front-end web developer.
 My UI/UX design capacities come with HTML5, CSS3, JavaScript, React.js and more.
 In addition to web development, I photograph and edit photos using programs such as Adobe Lightroom and Photoshop.
+
 
 
 ### Connect with me:
