@@ -24,13 +24,14 @@ I am a freelancer and a front-end web developer.
 ### Languages and Tools:
 
 <div style="width:100%;display:flex;justify-content:space-around;align-items:center;">
-  
+
 <img alt="C#"  src="https://img.shields.io/badge/CSharp-11b700?style=for-the-badge&logo=c&logoColor=white" />
+<img alt="Python3"  src="https://img.shields.io/badge/Python-0084ff?style=for-the-badge&logo=python&logoColor=yellow" />
+<img alt="PHP"  src="https://img.shields.io/badge/PHP7-c000ff?style=for-the-badge&logo=php&logoColor=white" />
 <img alt="MySql"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img alt="HTML"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="css"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img alt="scss"  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img alt="Java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
 <br />
