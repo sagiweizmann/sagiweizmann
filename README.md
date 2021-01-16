@@ -2,7 +2,7 @@
 <h2 align="center">I'm a Fullstack Developer</h2>
 
 
-- 📕 I’m currently learning React
+- 📕 I’m currently learning Vue.js
 - 👓 Developing and learning 
 
 
