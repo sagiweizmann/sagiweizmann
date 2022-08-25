@@ -1,13 +1,14 @@
 <h1 align="center">Hi there, I'm Sagi Weizmann 👋</h1>
-<h2 align="center">I'm a Fullstack Developer</h2>
+<h2 align="center">I'm a Fullstack Web Developer</h2>
 
 
 - 👓 Developing and learning 
 
 
 ### A little bit about me:
-I am a freelancer and a front-end web developer.
-<br />My UI/UX design capacities come with HTML5, CSS3, JavaScript, React.js and more.
+I am a freelancer and a full-stack web developer.
+<br />Backend Development mostly at PHP,Perl and more.
+<br />My UI/UX design capacities come with HTML5, CSS3, JavaScript, Vue.js and more.
 <br />In addition to web development, I photograph and edit photos using programs such as Adobe Lightroom and Photoshop.
 
 
@@ -24,9 +25,9 @@ I am a freelancer and a front-end web developer.
 
 <div style="width:100%;display:flex;justify-content:space-around;align-items:center;">
 
+<img alt="PHP"  src="https://img.shields.io/badge/PHP7-c000ff?style=for-the-badge&logo=php&logoColor=white" />
 <img alt="C#"  src="https://img.shields.io/badge/CSharp-11b700?style=for-the-badge&logo=c&logoColor=white" />
 <img alt="Python3"  src="https://img.shields.io/badge/Python-0084ff?style=for-the-badge&logo=python&logoColor=yellow" />
-<img alt="PHP"  src="https://img.shields.io/badge/PHP7-c000ff?style=for-the-badge&logo=php&logoColor=white" />
 <img alt="MySql"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img alt="HTML"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
