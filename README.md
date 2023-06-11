@@ -7,7 +7,7 @@
 
 ### A little bit about me:
 I am a freelancer and a full-stack web developer.
-<br />Backend Development mostly at PHP,Perl and more.
+<br />Backend Development mostly at PHP,Node.Js
 <br />My UI/UX design capacities come with HTML5, CSS3, JavaScript, Vue.js and more.
 <br />In addition to web development, I photograph and edit photos using programs such as Adobe Lightroom and Photoshop.
 
