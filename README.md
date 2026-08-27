@@ -15,8 +15,14 @@ I am a freelancer and a full-stack web developer.
 
 ### Connect with me:
 
-<a href="https://sagiweizmann.com"><img  alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="https://www.linkedin.com/in/sagiweizmann/"><img  alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://sagiweizmann.com">
+  <img alt="Website" width="22px"
+       src="https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sagiweizmann/">
+  <img alt="LinkedIn" width="22px"
+       src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 
 
 <br />
